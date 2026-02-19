@@ -3,3 +3,9 @@
 *.ini
 example/imgui_knobs_example
 /.ccls-cache
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
